@@ -31,4 +31,4 @@ INSERT INTO "student" ("stud_id","stud_name", "stud_gender_id", "stud_class_id")
  (3,'Violet Evergarden', 2, 2);
 COMMIT;
 
-3. Taruh Build
+3. Build dan taruh database di debug/net-60
